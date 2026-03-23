@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Pragya
 
-<!--
-**PragyaSingh4/PragyaSingh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BTech Student
+- 💻 Learning C++
+- 🔥 Interested in DSA & Web Dev
+- 🌐 MERN Stack Developer (Beginner)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=PragyaSingh4&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Streak Stats
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+## 💻 Top Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PragyaSingh4&layout=compact)
+
+## 🛠️ Skills
+- C++
+- HTML, CSS
+- JavaScript
+- React ⚛️
+- Node.js
+- Express.js
+- MongoDB 🍃
+- Flask
